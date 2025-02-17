@@ -1,0 +1,1 @@
+This repository demonstrates a common yet subtle bug in PHP related to loose comparison. The bug showcases the unexpected behavior of comparing strings and booleans using the `==` operator, which leads to logical errors. The solution provides a fix using strict comparison (`===`) to ensure type safety and accurate comparisons.
